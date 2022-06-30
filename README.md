@@ -10,6 +10,6 @@ A SQL data cleaning project using Nashville housing data.
 
 •Standardized date format using TO_DATE and updated the table.
 
-•Splitting propertyaddress into individual column as propertysplitaddress, propertysplitcity and updated the table using SPLIT_PART .
+•Splitting propertyaddress into individual column as propertysplitaddress, propertysplitcity using SPLIT_PART updated the table.
 
-•Splitting owneraddress into individual column as ownersplitaddress, ownersplitcity, and ownersplitstates updated the table using SPLIT_PART.
+•Splitting owneraddress into individual column as ownersplitaddress, ownersplitcity, and ownersplitstates using SPLIT_PART updated the table  .
