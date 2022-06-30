@@ -1,8 +1,8 @@
-#Data Cleaning Projects using PostgreSQL
+# Data Cleaning Projects using PostgreSQL
  
 A SQL data cleaning project using Nashville housing data.
 
-#The Following Processes I have done in this project
+# The Following Processes I have done in this project
 
 •Changing Y and N to Yes and No in the SoldAsVacant field and landuse field using CASE statement.
 
